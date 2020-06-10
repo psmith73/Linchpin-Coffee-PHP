@@ -2,116 +2,126 @@
 
 $blogs = array(
     array(
-        "title" => "<h2>The Coolest Places To Drink Coffee</h2>",
-        "date" => "<time class='date'>Published 3/7/20</time>",
-        "shortText" => "<p class='tagline'>If you are going to drink coffee then you must drink coffee at the coolest places ever. Where are here to tell you exactly where those places are!</p>",
-        "paraOne" => "<p>Coffee is one of the most complex beverages on the planet, containing over 1,000 chemical compounds. Describing such a complex product presents a challenge, but doing so can be empowering: it can help a person or a company understand what they like, make more informed purchasing decisions, and identify and track product quality over time. In order to help guide these descriptions, many food and beverage industries have developed flavor wheels. A flavor wheel, simply put, is a circle of words. These words form a vocabulary to describe the sensory characteristics of a product. Since we rarely experience pure chemical compounds, the flavors are most often expressed as other foods and beverages.</p>",
-        "paraTwo" => "<p>In 2013, Counter Culture released our Coffee Taster’s Flavor Wheel which represented the shared vocabulary that tasters at Counter Culture used when describing coffee flavor. Being a company passionate about education, we made the wheel available for free on our website. The wheel has become a popular tool utilized by beginner and expert coffee tasters world-wide. Countless coffee shops and cupping labs display the colorful wheel as both a tool and reminder of coffee’s diverse flavors.</p>",
-        "paraThree" => "<p>We are excited to release a new version of the Coffee Taster’s Flavor Wheel—a slightly more modern design with some vocabulary tweaks to reflect what we’re currently tasting—along with a Spanish-translated edition. There is, of course, a vast range of words used to describe flavor across individuals, cultures, and dialects, but there are also many commonalities. There’s no one right answer, but there is excitement in being able to articulate an experience and joy when consensus is reached with others. Tools like the flavor wheel help us get there.</p>",
-        "image" => "<img src='../images/photo-of-coffee-neon-signage-2687131.jpg' alt='Exterior of Coffee Shop with string lighting, patio furniture, and coffee sign'</img>",
-        "btn" => "<a id = 'btnOne' class='button' href='post.php/$id'>Read More <i class='fas fa-arrow-right'></i></a>",
-        "backBtn" => "<a class='button' href='blog.php'><i class='fas fa-arrow-left'></i> Back To Blog</a>"
-    ),
-    
-    array(
-        "title" => "<h2>Level Up Your Coffee Equipment</h2>",
-        "date" => "<time class='date'>Published 3/4/20</time>",
-        "shortText" => "<p class='tagline'>Go ahead and get your Amazon wish list open, because we are about to fill it with the coolest coffee equipment around.</p>",
-        "paraOne" => "<p>Coffee is one of the most complex beverages on the planet, containing over 1,000 chemical compounds. Describing such a complex product presents a challenge, but doing so can be empowering: it can help a person or a company understand what they like, make more informed purchasing decisions, and identify and track product quality over time. In order to help guide these descriptions, many food and beverage industries have developed flavor wheels. A flavor wheel, simply put, is a circle of words. These words form a vocabulary to describe the sensory characteristics of a product. Since we rarely experience pure chemical compounds, the flavors are most often expressed as other foods and beverages.</p>",
-        "paraTwo" => "<p>In 2013, Counter Culture released our Coffee Taster’s Flavor Wheel which represented the shared vocabulary that tasters at Counter Culture used when describing coffee flavor. Being a company passionate about education, we made the wheel available for free on our website. The wheel has become a popular tool utilized by beginner and expert coffee tasters world-wide. Countless coffee shops and cupping labs display the colorful wheel as both a tool and reminder of coffee’s diverse flavors.</p>",
-        "paraThree" => "<p>We are excited to release a new version of the Coffee Taster’s Flavor Wheel—a slightly more modern design with some vocabulary tweaks to reflect what we’re currently tasting—along with a Spanish-translated edition. There is, of course, a vast range of words used to describe flavor across individuals, cultures, and dialects, but there are also many commonalities. There’s no one right answer, but there is excitement in being able to articulate an experience and joy when consensus is reached with others. Tools like the flavor wheel help us get there.</p>",
-        "image" => "<img src='../images/coffee-equipment-bar-2878707.jpg' alt='Coffee equipment inside of a coffee shop'</img>",
-        "btn" => "<a id = 'btnTwo' class='button' href='post.php/$id'>Read More <i class='fas fa-arrow-right'></i></a>",
-        "backBtn" => "<a class='button' href='blog.php'><i class='fas fa-arrow-left'></i> Back To Blog</a>"
+        'id' => '1',
+        "title" => "The Coolest Places To Drink Coffee",
+        "date" => "3/7/20",
+        "shortText" => "If you are going to drink coffee then you must drink coffee at the coolest places ever. Where are here to tell you exactly where those places are!",
+        "postContent" => "<p>Cup extraction, frappuccino et grounds, sit dark, acerbic cup dripper, sugar single origin arabica espresso extra. In organic filter, variety steamed, filter body barista variety siphon, crema, café au lait arabica acerbic cultivar extraction id roast that pumpkin spice shop. Et grinder trifecta that grinder redeye skinny id extra shop galão a filter. Robusta sweet extraction iced aromatic et, aftertaste, eu single shot robust, trifecta rich mug, froth cup caffeine, in con panna carajillo qui grinder percolator at cortado. Cortado, kopi-luwak, aroma whipped chicory arabica robust percolator sweet aroma, carajillo et mazagran grinder est viennese. Cultivar black, doppio dark, cappuccino, white beans, in, cup cinnamon, strong as latte cappuccino affogato.</p>
+        <p>As froth, coffee coffee, black, foam robust trifecta, eu froth, skinny americano flavour cream dripper blue mountain. Doppio medium, single origin cup cortado frappuccino single shot kopi-luwak foam at dripper that acerbic. Percolator pumpkin spice filter macchiato mug, grounds doppio, dark extraction a mazagran plunger pot body steamed white wings affogato half and half caramelization, lungo pumpkin spice americano coffee irish. Saucer aftertaste carajillo, mug sweet, cup redeye spoon ristretto aged strong carajillo, espresso crema aromatic caffeine espresso irish as irish. Caffeine americano cultivar coffee a plunger pot, lungo, that as, froth aroma mazagran java latte in ut macchiato. Cream id, wings, in, variety, espresso latte, frappuccino cream french press espresso sweet cappuccino sweet.</p>
+        <p>Eu rich, plunger pot and, instant affogato aged black id brewed, extraction aftertaste coffee at cortado. Robusta cinnamon aroma medium irish siphon coffee, cultivar, aftertaste filter, cinnamon, cup chicory decaffeinated seasonal blue mountain. Roast chicory flavour dark lungo half and half, saucer mazagran cultivar body java wings milk affogato, barista spoon aromatic turkish carajillo robust siphon extra redeye brewed. Kopi-luwak barista, cup that mazagran, eu dripper white et frappuccino cinnamon beans extraction beans cup, spoon crema half and half whipped cinnamon barista. Flavour skinny dark single shot, bar organic sugar instant dark, white sugar saucer crema, id milk arabica instant siphon. Aftertaste grounds java sweet kopi-luwak to go, sugar lungo, aromatic white medium coffee crema et decaffeinated kopi-luwak.</p>",
+        "image" => array(
+            'src' => '../images/photo-of-coffee-neon-signage-2687131.jpg',
+            'alt' => 'Exterior of Coffee Shop with string lighting, patio furniture, and coffee sign',
+        ),
     ),
 
     array(
-        "title" => "<h2>My New Life Motto</h2>",
-        "date" => "<time class='date'>Published 3/3/20</time>",
-        "shortText" => "<p class='tagline'>I'm struggling to find how this won't fix every single life problem I will ever have.</p>",
-        "paraOne" => "<p>Coffee is one of the most complex beverages on the planet, containing over 1,000 chemical compounds. Describing such a complex product presents a challenge, but doing so can be empowering: it can help a person or a company understand what they like, make more informed purchasing decisions, and identify and track product quality over time. In order to help guide these descriptions, many food and beverage industries have developed flavor wheels. A flavor wheel, simply put, is a circle of words. These words form a vocabulary to describe the sensory characteristics of a product. Since we rarely experience pure chemical compounds, the flavors are most often expressed as other foods and beverages.</p>",
-        "paraTwo" => "<p>In 2013, Counter Culture released our Coffee Taster’s Flavor Wheel which represented the shared vocabulary that tasters at Counter Culture used when describing coffee flavor. Being a company passionate about education, we made the wheel available for free on our website. The wheel has become a popular tool utilized by beginner and expert coffee tasters world-wide. Countless coffee shops and cupping labs display the colorful wheel as both a tool and reminder of coffee’s diverse flavors.</p>",
-        "paraThree" => "<p>We are excited to release a new version of the Coffee Taster’s Flavor Wheel—a slightly more modern design with some vocabulary tweaks to reflect what we’re currently tasting—along with a Spanish-translated edition. There is, of course, a vast range of words used to describe flavor across individuals, cultures, and dialects, but there are also many commonalities. There’s no one right answer, but there is excitement in being able to articulate an experience and joy when consensus is reached with others. Tools like the flavor wheel help us get there.</p>",
-        "image" => "<img src='../images/red-neon-signage-3597310.jpg' alt='Neon sign reading all you need is coffee'</img>",
-        "btn" => "<a id = 'btnThree' class='button' href='post.php/$id'>Read More <i class='fas fa-arrow-right'></i></a>",
-        "backBtn" => "<a class='button' href='blog.php'><i class='fas fa-arrow-left'></i> Back To Blog</a>"
+        'id' => '2',
+        "title" => "Level Up Your Coffee Equipment",
+        "date" => "3/4/20",
+        "shortText" => "Go ahead and get your Amazon wish list open, because we are about to fill it with the coolest coffee equipment around.",
+        "postContent" => "<p>Cup extraction, frappuccino et grounds, sit dark, acerbic cup dripper, sugar single origin arabica espresso extra. In organic filter, variety steamed, filter body barista variety siphon, crema, café au lait arabica acerbic cultivar extraction id roast that pumpkin spice shop. Et grinder trifecta that grinder redeye skinny id extra shop galão a filter. Robusta sweet extraction iced aromatic et, aftertaste, eu single shot robust, trifecta rich mug, froth cup caffeine, in con panna carajillo qui grinder percolator at cortado. Cortado, kopi-luwak, aroma whipped chicory arabica robust percolator sweet aroma, carajillo et mazagran grinder est viennese. Cultivar black, doppio dark, cappuccino, white beans, in, cup cinnamon, strong as latte cappuccino affogato.</p>
+        <p>As froth, coffee coffee, black, foam robust trifecta, eu froth, skinny americano flavour cream dripper blue mountain. Doppio medium, single origin cup cortado frappuccino single shot kopi-luwak foam at dripper that acerbic. Percolator pumpkin spice filter macchiato mug, grounds doppio, dark extraction a mazagran plunger pot body steamed white wings affogato half and half caramelization, lungo pumpkin spice americano coffee irish. Saucer aftertaste carajillo, mug sweet, cup redeye spoon ristretto aged strong carajillo, espresso crema aromatic caffeine espresso irish as irish. Caffeine americano cultivar coffee a plunger pot, lungo, that as, froth aroma mazagran java latte in ut macchiato. Cream id, wings, in, variety, espresso latte, frappuccino cream french press espresso sweet cappuccino sweet.</p>
+        <p>Eu rich, plunger pot and, instant affogato aged black id brewed, extraction aftertaste coffee at cortado. Robusta cinnamon aroma medium irish siphon coffee, cultivar, aftertaste filter, cinnamon, cup chicory decaffeinated seasonal blue mountain. Roast chicory flavour dark lungo half and half, saucer mazagran cultivar body java wings milk affogato, barista spoon aromatic turkish carajillo robust siphon extra redeye brewed. Kopi-luwak barista, cup that mazagran, eu dripper white et frappuccino cinnamon beans extraction beans cup, spoon crema half and half whipped cinnamon barista. Flavour skinny dark single shot, bar organic sugar instant dark, white sugar saucer crema, id milk arabica instant siphon. Aftertaste grounds java sweet kopi-luwak to go, sugar lungo, aromatic white medium coffee crema et decaffeinated kopi-luwak.</p>",
+        "image" => array(
+            'src' => '../images/coffee-equipment-bar-2878707.jpg',
+            'alt' => 'Coffee equipment inside of a coffee shop',
+        ),
     ),
 
     array(
-        "title" => "<h2>In A Coffee Mug Far, Far, Away</h2>",
-        "date" => "<time class='date'>Published 2/27/20</time>",
-        "shortText" => "<p class='tagline'>Well, not too far away because we are going to help you make the best coffee of your life, in your own mug, each morning.</p>",
-        "paraOne" => "<p>Coffee is one of the most complex beverages on the planet, containing over 1,000 chemical compounds. Describing such a complex product presents a challenge, but doing so can be empowering: it can help a person or a company understand what they like, make more informed purchasing decisions, and identify and track product quality over time. In order to help guide these descriptions, many food and beverage industries have developed flavor wheels. A flavor wheel, simply put, is a circle of words. These words form a vocabulary to describe the sensory characteristics of a product. Since we rarely experience pure chemical compounds, the flavors are most often expressed as other foods and beverages.</p>",
-        "paraTwo" => "<p>In 2013, Counter Culture released our Coffee Taster’s Flavor Wheel which represented the shared vocabulary that tasters at Counter Culture used when describing coffee flavor. Being a company passionate about education, we made the wheel available for free on our website. The wheel has become a popular tool utilized by beginner and expert coffee tasters world-wide. Countless coffee shops and cupping labs display the colorful wheel as both a tool and reminder of coffee’s diverse flavors.</p>",
-        "paraThree" => "<p>We are excited to release a new version of the Coffee Taster’s Flavor Wheel—a slightly more modern design with some vocabulary tweaks to reflect what we’re currently tasting—along with a Spanish-translated edition. There is, of course, a vast range of words used to describe flavor across individuals, cultures, and dialects, but there are also many commonalities. There’s no one right answer, but there is excitement in being able to articulate an experience and joy when consensus is reached with others. Tools like the flavor wheel help us get there.</p>",
-        "image" => "<img src='../images/white-and-grey-ceramic-mug-on-brown-wooden-table-894010.jpg' alt ='Star Wars R2-D2 coffee mug on a wooden table'</img>",
-        "btn" => "<a id = 'btnFour' class='button' href='post.php/$id'>Read More <i class='fas fa-arrow-right'></i></a>",
-        "backBtn" => "<a class='button' href='blog.php'><i class='fas fa-arrow-left'></i> Back To Blog</a>"
+        'id' => '3',
+        "title" => "My New Life Motto",
+        "date" => "3/3/20",
+        "shortText" => "I'm struggling to find how this won't fix every single life problem I will ever have.",
+        "postContent" => "<p>Cup extraction, frappuccino et grounds, sit dark, acerbic cup dripper, sugar single origin arabica espresso extra. In organic filter, variety steamed, filter body barista variety siphon, crema, café au lait arabica acerbic cultivar extraction id roast that pumpkin spice shop. Et grinder trifecta that grinder redeye skinny id extra shop galão a filter. Robusta sweet extraction iced aromatic et, aftertaste, eu single shot robust, trifecta rich mug, froth cup caffeine, in con panna carajillo qui grinder percolator at cortado. Cortado, kopi-luwak, aroma whipped chicory arabica robust percolator sweet aroma, carajillo et mazagran grinder est viennese. Cultivar black, doppio dark, cappuccino, white beans, in, cup cinnamon, strong as latte cappuccino affogato.</p>
+        <p>As froth, coffee coffee, black, foam robust trifecta, eu froth, skinny americano flavour cream dripper blue mountain. Doppio medium, single origin cup cortado frappuccino single shot kopi-luwak foam at dripper that acerbic. Percolator pumpkin spice filter macchiato mug, grounds doppio, dark extraction a mazagran plunger pot body steamed white wings affogato half and half caramelization, lungo pumpkin spice americano coffee irish. Saucer aftertaste carajillo, mug sweet, cup redeye spoon ristretto aged strong carajillo, espresso crema aromatic caffeine espresso irish as irish. Caffeine americano cultivar coffee a plunger pot, lungo, that as, froth aroma mazagran java latte in ut macchiato. Cream id, wings, in, variety, espresso latte, frappuccino cream french press espresso sweet cappuccino sweet.</p>
+        <p>Eu rich, plunger pot and, instant affogato aged black id brewed, extraction aftertaste coffee at cortado. Robusta cinnamon aroma medium irish siphon coffee, cultivar, aftertaste filter, cinnamon, cup chicory decaffeinated seasonal blue mountain. Roast chicory flavour dark lungo half and half, saucer mazagran cultivar body java wings milk affogato, barista spoon aromatic turkish carajillo robust siphon extra redeye brewed. Kopi-luwak barista, cup that mazagran, eu dripper white et frappuccino cinnamon beans extraction beans cup, spoon crema half and half whipped cinnamon barista. Flavour skinny dark single shot, bar organic sugar instant dark, white sugar saucer crema, id milk arabica instant siphon. Aftertaste grounds java sweet kopi-luwak to go, sugar lungo, aromatic white medium coffee crema et decaffeinated kopi-luwak.</p>",
+        "image" => array(
+            'src' => '../images/red-neon-signage-3597310.jpg',
+            'alt' => 'Neon sign reading all you need is coffee',
+        ),
     ),
 
     array(
-        "title" => "<h2>The Best Part Of Waking Up</h2>",
-        "date" => "<time class='date'>Published 2/24/20</time>",
-        "shortText" => "<p class='tagline'>.......Is having options of which amazing coffee beans you are going to grind, brew, and drink.</p>",
-        "paraOne" => "<p>Coffee is one of the most complex beverages on the planet, containing over 1,000 chemical compounds. Describing such a complex product presents a challenge, but doing so can be empowering: it can help a person or a company understand what they like, make more informed purchasing decisions, and identify and track product quality over time. In order to help guide these descriptions, many food and beverage industries have developed flavor wheels. A flavor wheel, simply put, is a circle of words. These words form a vocabulary to describe the sensory characteristics of a product. Since we rarely experience pure chemical compounds, the flavors are most often expressed as other foods and beverages.</p>",
-        "paraTwo" => "<p>In 2013, Counter Culture released our Coffee Taster’s Flavor Wheel which represented the shared vocabulary that tasters at Counter Culture used when describing coffee flavor. Being a company passionate about education, we made the wheel available for free on our website. The wheel has become a popular tool utilized by beginner and expert coffee tasters world-wide. Countless coffee shops and cupping labs display the colorful wheel as both a tool and reminder of coffee’s diverse flavors.</p>",
-        "paraThree" => "<p>We are excited to release a new version of the Coffee Taster’s Flavor Wheel—a slightly more modern design with some vocabulary tweaks to reflect what we’re currently tasting—along with a Spanish-translated edition. There is, of course, a vast range of words used to describe flavor across individuals, cultures, and dialects, but there are also many commonalities. There’s no one right answer, but there is excitement in being able to articulate an experience and joy when consensus is reached with others. Tools like the flavor wheel help us get there.</p>",
-        "image" => "<img src ='../images/wake-up-smell-the-coffee-wall-decoratio-1187696.jpg' alt='Painting on a wall that says wake up and smell the coffee'</img>",
-        "btn" => "<a id = 'btnFive' class='button' href='post.php/$id'>Read More <i class='fas fa-arrow-right'></i></a>",
-        "backBtn" => "<a class='button' href='blog.php'><i class='fas fa-arrow-left'></i> Back To Blog</a>"
-    )
+        'id' => '4',
+        "title" => "In A Coffee Mug Far, Far, Away",
+        "date" => "2/27/20",
+        "shortText" => "Well, not too far away because we are going to help you make the best coffee of your life, in your own mug, each morning.",
+        "postContent" => "<p>Cup extraction, frappuccino et grounds, sit dark, acerbic cup dripper, sugar single origin arabica espresso extra. In organic filter, variety steamed, filter body barista variety siphon, crema, café au lait arabica acerbic cultivar extraction id roast that pumpkin spice shop. Et grinder trifecta that grinder redeye skinny id extra shop galão a filter. Robusta sweet extraction iced aromatic et, aftertaste, eu single shot robust, trifecta rich mug, froth cup caffeine, in con panna carajillo qui grinder percolator at cortado. Cortado, kopi-luwak, aroma whipped chicory arabica robust percolator sweet aroma, carajillo et mazagran grinder est viennese. Cultivar black, doppio dark, cappuccino, white beans, in, cup cinnamon, strong as latte cappuccino affogato.</p>
+        <p>As froth, coffee coffee, black, foam robust trifecta, eu froth, skinny americano flavour cream dripper blue mountain. Doppio medium, single origin cup cortado frappuccino single shot kopi-luwak foam at dripper that acerbic. Percolator pumpkin spice filter macchiato mug, grounds doppio, dark extraction a mazagran plunger pot body steamed white wings affogato half and half caramelization, lungo pumpkin spice americano coffee irish. Saucer aftertaste carajillo, mug sweet, cup redeye spoon ristretto aged strong carajillo, espresso crema aromatic caffeine espresso irish as irish. Caffeine americano cultivar coffee a plunger pot, lungo, that as, froth aroma mazagran java latte in ut macchiato. Cream id, wings, in, variety, espresso latte, frappuccino cream french press espresso sweet cappuccino sweet.</p>
+        <p>Eu rich, plunger pot and, instant affogato aged black id brewed, extraction aftertaste coffee at cortado. Robusta cinnamon aroma medium irish siphon coffee, cultivar, aftertaste filter, cinnamon, cup chicory decaffeinated seasonal blue mountain. Roast chicory flavour dark lungo half and half, saucer mazagran cultivar body java wings milk affogato, barista spoon aromatic turkish carajillo robust siphon extra redeye brewed. Kopi-luwak barista, cup that mazagran, eu dripper white et frappuccino cinnamon beans extraction beans cup, spoon crema half and half whipped cinnamon barista. Flavour skinny dark single shot, bar organic sugar instant dark, white sugar saucer crema, id milk arabica instant siphon. Aftertaste grounds java sweet kopi-luwak to go, sugar lungo, aromatic white medium coffee crema et decaffeinated kopi-luwak.</p>",
+        "image" => array(
+            'src' => '../images/white-and-grey-ceramic-mug-on-brown-wooden-table-894010.jpg',
+            'alt' => 'Star Wars R2-D2 coffee mug on a wooden table',
+        ),
+    ),
+
+    array(
+        'id' => '5',
+        "title" => "The Best Part Of Waking Up",
+        "date" => "2/24/20",
+        "shortText" => ".......Is having options of which amazing coffee beans you are going to grind, brew, and drink.",
+        "postContent" => "<p>Cup extraction, frappuccino et grounds, sit dark, acerbic cup dripper, sugar single origin arabica espresso extra. In organic filter, variety steamed, filter body barista variety siphon, crema, café au lait arabica acerbic cultivar extraction id roast that pumpkin spice shop. Et grinder trifecta that grinder redeye skinny id extra shop galão a filter. Robusta sweet extraction iced aromatic et, aftertaste, eu single shot robust, trifecta rich mug, froth cup caffeine, in con panna carajillo qui grinder percolator at cortado. Cortado, kopi-luwak, aroma whipped chicory arabica robust percolator sweet aroma, carajillo et mazagran grinder est viennese. Cultivar black, doppio dark, cappuccino, white beans, in, cup cinnamon, strong as latte cappuccino affogato.</p>
+        <p>As froth, coffee coffee, black, foam robust trifecta, eu froth, skinny americano flavour cream dripper blue mountain. Doppio medium, single origin cup cortado frappuccino single shot kopi-luwak foam at dripper that acerbic. Percolator pumpkin spice filter macchiato mug, grounds doppio, dark extraction a mazagran plunger pot body steamed white wings affogato half and half caramelization, lungo pumpkin spice americano coffee irish. Saucer aftertaste carajillo, mug sweet, cup redeye spoon ristretto aged strong carajillo, espresso crema aromatic caffeine espresso irish as irish. Caffeine americano cultivar coffee a plunger pot, lungo, that as, froth aroma mazagran java latte in ut macchiato. Cream id, wings, in, variety, espresso latte, frappuccino cream french press espresso sweet cappuccino sweet.</p>
+        <p>Eu rich, plunger pot and, instant affogato aged black id brewed, extraction aftertaste coffee at cortado. Robusta cinnamon aroma medium irish siphon coffee, cultivar, aftertaste filter, cinnamon, cup chicory decaffeinated seasonal blue mountain. Roast chicory flavour dark lungo half and half, saucer mazagran cultivar body java wings milk affogato, barista spoon aromatic turkish carajillo robust siphon extra redeye brewed. Kopi-luwak barista, cup that mazagran, eu dripper white et frappuccino cinnamon beans extraction beans cup, spoon crema half and half whipped cinnamon barista. Flavour skinny dark single shot, bar organic sugar instant dark, white sugar saucer crema, id milk arabica instant siphon. Aftertaste grounds java sweet kopi-luwak to go, sugar lungo, aromatic white medium coffee crema et decaffeinated kopi-luwak.</p>",
+        "image" => array(
+            'src' => '../images/wake-up-smell-the-coffee-wall-decoratio-1187696.jpg',
+            'alt' => 'Painting on a wall that says wake up and smell the coffee',
+        ),
+    ),
 );
 
 
 
 
 
-if($id == 'btnOne'){
-    echo    "<div class='post'>";
-    echo        $blogs[0]["title"];
-    echo        $blogs[0]["image"];
-    echo        $blogs[0]["paraOne"];
-    echo        $blogs[0]["pareTwo"];
-    echo        $blogs[0]["paraThree"];
-    echo        $blogs[0]["backBtn"];
-    echo    "</div>";
-}else if($id == "btnTwo"){
-    echo    "<div class='post'>";
-    echo        $blogs[1]["title"];
-    echo        $blogs[1]["image"];
-    echo        $blogs[1]["paraOne"];
-    echo        $blogs[1]["pareTwo"];
-    echo        $blogs[1]["paraThree"];
-    echo        $blogs[1]["backBtn"];
-    echo    "</div>";
-}else if($id == "btnThree"){
-    echo    "<div class='post'>";
-    echo        $blogs[2]["title"];
-    echo        $blogs[2]["image"];
-    echo        $blogs[2]["paraOne"];
-    echo        $blogs[2]["pareTwo"];
-    echo        $blogs[2]["paraThree"];
-    echo        $blogs[2]["backBtn"];
-    echo    "</div>";
-}else if($id == "btnFour"){
-    echo    "<div class='post'>";
-    echo        $blogs[3]["title"];
-    echo        $blogs[3]["image"];
-    echo        $blogs[3]["paraOne"];
-    echo        $blogs[3]["pareTwo"];
-    echo        $blogs[3]["paraThree"];
-    echo        $blogs[3]["backBtn"];
-    echo    "</div>";
-}else{
-    echo    "<div class='post'>";
-    echo        $blogs[4]["title"];
-    echo        $blogs[4]["image"];
-    echo        $blogs[4]["paraOne"];
-    echo        $blogs[4]["pareTwo"];
-    echo        $blogs[4]["paraThree"];
-    echo        $blogs[4]["backBtn"];
-    echo    "</div>";
-}
+// if($id == 'btnOne'){
+//     echo    "<div class='post'>";
+//     echo        $blogs[0]["title"];
+//     echo        $blogs[0]["image"];
+//     echo        $blogs[0]["paraOne"];
+//     echo        $blogs[0]["pareTwo"];
+//     echo        $blogs[0]["paraThree"];
+//     echo        $blogs[0]["backBtn"];
+//     echo    "</div>";
+// }else if($id == "btnTwo"){
+//     echo    "<div class='post'>";
+//     echo        $blogs[1]["title"];
+//     echo        $blogs[1]["image"];
+//     echo        $blogs[1]["paraOne"];
+//     echo        $blogs[1]["pareTwo"];
+//     echo        $blogs[1]["paraThree"];
+//     echo        $blogs[1]["backBtn"];
+//     echo    "</div>";
+// }else if($id == "btnThree"){
+//     echo    "<div class='post'>";
+//     echo        $blogs[2]["title"];
+//     echo        $blogs[2]["image"];
+//     echo        $blogs[2]["paraOne"];
+//     echo        $blogs[2]["pareTwo"];
+//     echo        $blogs[2]["paraThree"];
+//     echo        $blogs[2]["backBtn"];
+//     echo    "</div>";
+// }else if($id == "btnFour"){
+//     echo    "<div class='post'>";
+//     echo        $blogs[3]["title"];
+//     echo        $blogs[3]["image"];
+//     echo        $blogs[3]["paraOne"];
+//     echo        $blogs[3]["pareTwo"];
+//     echo        $blogs[3]["paraThree"];
+//     echo        $blogs[3]["backBtn"];
+//     echo    "</div>";
+// }else{
+//     echo    "<div class='post'>";
+//     echo        $blogs[4]["title"];
+//     echo        $blogs[4]["image"];
+//     echo        $blogs[4]["paraOne"];
+//     echo        $blogs[4]["pareTwo"];
+//     echo        $blogs[4]["paraThree"];
+//     echo        $blogs[4]["backBtn"];
+//     echo    "</div>";
+// }
 
 
 
